@@ -1,0 +1,22 @@
+{
+  "name": "countdowntimer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^22.7.5"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "inquirer": "^12.0.0"
+  }
+}
